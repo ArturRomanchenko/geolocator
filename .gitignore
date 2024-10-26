@@ -1,0 +1,8 @@
+# vs code configuration
+.vscode
+
+# cmake build
+build/*
+
+# telergam bot TOKEN
+telegram_token.json
